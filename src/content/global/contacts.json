@@ -1,21 +1,16 @@
 {
-	"phone": "+1 1234567890",
-	"mail": "info@yourcompany.com",
+	"phone": "+39 3341594140",
+	"mail": "info@giorgiaesposito.com",
 	"socials": [
 		{
-			"title": "Facebook",
-			"link": "https://facebook.com",
-			"icon": "ic:baseline-facebook"
+			"title": "X",
+			"link": "https://x.com/EspositoG_",
+			"icon": "ic:baseline-x"
 		},
 		{
-			"title": "Instagram",
-			"link": "https://www.instagram.com/",
-			"icon": "mdi:instagram"
-		},
-		{
-			"title": "Youtube",
-			"link": "https://www.youtube.com/",
-			"icon": "mdi:youtube"
+			"title": "LinkedIn",
+			"link": "https://www.linkedin.com/in/giorgiaesposito-smm/",
+			"icon": "mdi:Linkedin"
 		}
 	]
 }
